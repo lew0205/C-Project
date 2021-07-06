@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="최종본(주석처리필요).cpp">
+    <ClCompile Include="최종본.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
